@@ -1,2 +1,2 @@
-# CICD_Demo
-CICD_Demo
+# code-deploy-udemy
+This repository contains all the resources used in the Udemy course.
